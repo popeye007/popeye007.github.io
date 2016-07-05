@@ -1,7 +1,5 @@
 ---
 layout: post
-title: Students Projects, AM045: Introduction to Business Computing, 2016 Spring
+title: AM045 2016 Students Projects
 ---
 Student Projects:
-1.
-2.
