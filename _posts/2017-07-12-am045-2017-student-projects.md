@@ -28,7 +28,7 @@ In this semester (2017 Spring), there are totally 12 team projects for my course
     + This project uses the machine learning technique to predict the companies' financial risk based on the F early warning model.
     + [[report]](/files/am045-2017/Corporate Investment Decision-making (report).pdf) [[slide]](/files/am045-2017/Corporate Investment Decision-making (slides).pdf)
 
-  - "Using Machine Learning to Preidct Expected Return of Alibaba", by 曲星凝, 李钰, 陳沛瑩, 孔婷钰, and 黄雅丽.
+  - "Using Machine Learning to Predict Expected Return of Alibaba", by 曲星凝, 李钰, 陳沛瑩, 孔婷钰, and 黄雅丽.
     + This project attemts to predict the expected return of the stock "Alibaba" using CAPM model.
     + [[report]](/files/am045-2017/404 NOT FOUND REPORT.pdf) [[slide]](/files/am045-2017/404 NOT FOUND SLIDES.pdf)
 
