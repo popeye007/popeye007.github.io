@@ -8,11 +8,11 @@ In this semester (2017 Spring), there are totally 12 team projects for my course
 
 ### Multimedia Data Analysis:
   - "Find the Member" by Pablo Garcia Arribas, Soohyun Lee, Begaiym Omurkanova, Hannah Rowe, and Dastan Yusupov.
-    + This project uses machine learning and computer vision techniques to detect faces of group memebers (image and video data) in real-time (using webcam).
+    + This project uses the machine learning and computer vision techniques to detect faces of group memebers (image and video data) in real-time (using webcam).
     + [[report]](/files/am045-2017/find the members (report).pdf) [[slide]](/files/am045-2017/find the members (slides).pdf)
 
   - "Classification of Voice" by 丁宁, 陈梦霞, 梁海娜, 王清凝 and 王敏.
-    + This project uses machine learning technique to classify the voice (audio data) as either male or female.
+    + This project uses the machine learning technique to classify the human voice (audio data) as either male or female.
     + [[report]](/files/am045-2017/classification of voice (report).pdf) [[slide]](/files/am045-2017/classification of voice (slides).pdf)
 
 ### Financial Analysis:
@@ -25,7 +25,7 @@ In this semester (2017 Spring), there are totally 12 team projects for my course
     + [[report]](/files/am045-2017/The time-varying process of beta coefficient (report).pdf) [[slide]](/files/am045-2017/The time-varying process of beta coefficient (slides).pdf)
 
   - "Corporate Investment Decision-Making" by 陆之东, 乐雅馨, 冯圣飞, 杭慧丽, and 王莹.
-    + This project uses machine learning technique to predict the companies' financial risk based on the F early warning model.
+    + This project uses the machine learning technique to predict the companies' financial risk based on the F early warning model.
     + [[report]](/files/am045-2017/Corporate Investment Decision-making (report).pdf) [[slide]](/files/am045-2017/Corporate Investment Decision-making (slides).pdf)
 
   - "Using Machine Learning to Preidct Expected Return of Alibaba", by 曲星凝, 李钰, 陳沛瑩, 孔婷钰, and 黄雅丽.
@@ -52,5 +52,5 @@ In this semester (2017 Spring), there are totally 12 team projects for my course
     + [[report]](/files/am045-2017/Pac-Man(report).pdf) [[slide]](/files/am045-2017/Pac-Man(slides).pdf)
 
   - "Guess IT" by Chia Jun Jie, Chong Ka Shing Claris, Igor Ivankin, and Shane Bradley.
-   + This project creates a puzzle game called "Guess it" using Python.
-   + [[report]](/files/am045-2017/IBC Report - Guess IT.pdf) [[slide]](/files/am045-2017/IBC PPT (Guess IT).pdf)
+    + This project creates a puzzle game called "Guess it" using Python.
+    + [[report]](/files/am045-2017/IBC Report - Guess IT.pdf) [[slide]](/files/am045-2017/IBC PPT (Guess IT).pdf)
