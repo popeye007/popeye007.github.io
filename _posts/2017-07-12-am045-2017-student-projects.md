@@ -3,7 +3,7 @@ layout: post
 title: AM045 2017 Student Projects
 ---
 
-In this semester (2017 Spring), there are totally 12 team projects for my course "AM045: Introduction to Business Computing". Alghough most students are only first-year undergraduates with no/little proir programming experience, they have done amazing jobs. Below, I list all projects (excluding one) which are categorized by topics.
+In this semester (2017 Spring), there are totally 12 team projects for my course "AM045: Introduction to Business Computing". Although most students are only first-year undergraduates with no/little proir programming experience, they have done amazing jobs. Below, I list all projects (excluding one) which are categorized by topics.
 
 
 ### Multimedia Data Analysis:
