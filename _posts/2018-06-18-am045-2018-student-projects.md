@@ -19,13 +19,13 @@ In this semester (2018 Spring), there are totally 15 team projects for my course
 
   - "You Are Beautiful" by the team "URBeautiful"
     + Team members: Tiffany Yen, 沈陆晗, 李悦苹, 沈晓玥
-    + This project creates a simplified Meitu App that allows the user to add stickers, do makeups, and beautifies faces in both images and real-time videos (using webcam).
+    + This project creates a simplified Meitu App that allows the user to add stickers, do makeups, and beautify faces in both images and real-time videos (using webcam).
     + [[report]](/files/am045-2018/URBeautiful_report.pdf) [[slide]](/files/am045-2018/URBeautiful_slide.pdf)
 
   - "ASCII Art Animation" by the team "#awfullyPYTHONIC"
     + Team members: 金淑媛, 王倩淑, 杨思佳, 尹悦舟
     + This project uses the computer vision technique to automatically convert a video to ASCII Art Animation in real-time.
-    + [[report]](/files/am045-2018/%23awfullyPYTHONIC_report.pdf) [[slide]](/files/am045-2018/%23awfullyPYTHONIC_slide.pdf)
+    + [[report]](/files/am045-2018/awfullyPYTHONIC_report.pdf) [[slide]](/files/am045-2018/awfullyPYTHONIC_slide.pdf)
 
   - "Wonder Words — Handwriting English Letters Recognition" by the team "Pyers3"
     + Team members: 孟凡佛, 孙阿敏, 束玥璘
@@ -51,12 +51,12 @@ In this semester (2018 Spring), there are totally 15 team projects for my course
 
   - "Job Data Analysis and Visualization based on ZPIN" by the team "QuatrayKill".
     + Team members: 关若萱, 曹怡惠, 徐心娴, 夏瑞欣
-    + This project crawls the job data from ZPIN (智联招聘) and conduct the data analsis and visualization using Python.
+    + This project crawls the job data from ZPIN (智联招聘) and conduct the data analysis and visualization using Python.
     + [[report]](/files/am045-2018/QuatrayKill_report.pdf) [[slide]](/files/am045-2018/QuatrayKill_slide.pdf)
 
   - "Application of Enneagram in Human Resource Training" by the team "P.Y.T.H.O.N".
     + Team members: Liu Tsz Kin, Leung Ka Huen
-    + This project create a program to calculate and visualize scores of the nine Enneagram personality types.
+    + This project create a program to calculate and visualize the scores of nine Enneagram personality types.
     + [[report]](/files/am045-2018/PYTHON_report.pdf) [[slide]](/files/am045-2018/PYTHON_slide.pdf)
 
   - "Beta Coefficient Calculation" by the team "iloveby".
@@ -66,19 +66,19 @@ In this semester (2018 Spring), there are totally 15 team projects for my course
 
   - "Retrieving High-Frequency Word of Book Comments" by the team "Cloud9".
     + Team members: 章腾, 雷铭杭, 刘佳鑫, 娄瑜婕, 高雅琪
-    + This project crawls the Douban.com book comments and visualize the word frequency using word could.
+    + This project crawls the Douban.com book comments and visualizes the word frequency using wordcould.
     + [[report]](/files/am045-2018/Cloud9_report.pdf) [[slide]](/files/am045-2018/Cloud9_slide.pdf)
 
 
 ### Games:
   - "Here Come Aliens!" by the team "X-Grils"
     + Team members: 朱芙蓉, 刘颖, 周韩韵, Wendy Zhou
-    + This project creates fun game called "Here Come Aliens!" using Python.
+    + This project creates a fun game called "Here Come Aliens!" using Python.
     + [[report]](/files/am045-2018/X-Girls_report.pdf) [[slide]](/files/am045-2018/X-Girls_slide.pdf)
 
   - "Fat Worm" by the team "WeNeedCache/Cash"
     + Team members: Vanessa Jia Lu How Hok Lin, Karina Elena Liang Liang, Hyuntae Jang, Jinwoo Jeong
-    + This project creates fun game called "Fat Worm" using Python.
+    + This project creates a fun game called "Fat Worm" using Python.
     + [[report]](/files/am045-2018/WeNeedCache(Cash)_report.pdf) [[slide]](/files/am045-2018/WeNeedCache(Cash)_slide.pdf)
 
   - Three games by the team "DionyStudio"
