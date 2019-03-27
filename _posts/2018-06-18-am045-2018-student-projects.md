@@ -38,7 +38,7 @@ In this semester (2018 Spring), there are totally 15 team projects for my course
     + [[report]](/files/am045-2018/MidsummerNight'sVoice_report.pdf) [[slide]](/files/am045-2018/MidsummerNight'sVoice_slide.pdf)
 
 
-### Data Analysis
+### Data Analysis:
   - "Shortest Path Identification" by the team "名字取的最好的组".
     + Team members: 张黄灏, 吴思澜, 章甜, 郑宜暄
     + This project creates a program that can automatically identify the shortest path in a map.
