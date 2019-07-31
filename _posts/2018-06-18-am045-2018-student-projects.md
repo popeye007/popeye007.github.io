@@ -3,7 +3,7 @@ layout: post
 title: AM045 2018 Student Projects
 ---
 
-In this semester (2018 Spring), there are totally 15 team projects for my course "AM045: Introduction to Business Computing". Although most students are only first-year undergraduates with no/little proir programming experience, they have done amazing jobs. Below, I list all the projects by topics.
+In this semester (2018 Spring), there are totally 15 team projects for my course "AM045: Introduction to Business Computing". Although most students are only first-year undergraduates with no/little prior programming experience, they have done amazing jobs. Below, I list all the projects by topics.
 
 
 ### Multimedia:
@@ -46,7 +46,7 @@ In this semester (2018 Spring), there are totally 15 team projects for my course
 
   - "An Analysis of the Factors Driving Long-Term Economic Growth" by the team "ExchangeStudents".
     + Team members: Lars Eirik Aanestad, Natalie Malins, David Koenig, Nicolas Fernandez
-    + This project uses the econometric models to investigate the factors that may drive the long-term econimic growth.
+    + This project uses the econometric models to investigate the factors that may drive the long-term economic growth.
     + [[report]](/files/am045-2018/ExcahngeStudents_report.pdf) [[slide]](/files/am045-2018/ExcahngeStudents_slide.pdf)
 
   - "Job Data Analysis and Visualization based on ZPIN" by the team "QuatrayKill".
@@ -66,7 +66,7 @@ In this semester (2018 Spring), there are totally 15 team projects for my course
 
   - "Retrieving High-Frequency Word of Book Comments" by the team "Cloud9".
     + Team members: 章腾, 雷铭杭, 刘佳鑫, 娄瑜婕, 高雅琪
-    + This project crawls the Douban.com book comments and visualizes the word frequency using wordcould.
+    + This project crawls the Douban.com book comments and visualizes the word frequency using word cloud.
     + [[report]](/files/am045-2018/Cloud9_report.pdf) [[slide]](/files/am045-2018/Cloud9_slide.pdf)
 
 
