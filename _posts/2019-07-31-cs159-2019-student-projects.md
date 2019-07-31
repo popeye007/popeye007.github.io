@@ -7,12 +7,13 @@ This is a list of student projects for my course "CS159: Python Programming (201
 
 
 ### Best Projects:
-  - "Human-Computer Interaction Ludo Game Based on Image Recognition"
+  - "Human-Computer Interaction Ludo Game Based on Image Recognition" by the team "Hello Full Mark"
     + Team members: Yi Guo, Boyuan Chen, Nijun Yan, Reina Honda
     + [[report]](/files//HelloFullMark_report.pdf) [[slide]](/files/cs159-2019-en/HelloFullMark_slide.pdf) [[demo]](/files/cs159-2019-en/HelloFullMark_demo.mp4)
 
-  - "Run! Starfish!" by the team "Starfish (我觉得海星)"
-    + Team members: 刘海洋, 黄思彧, 金晨忻, 孙泽宇
+  - "The Battle of Balls" by the team "The Sky Is The Limit"
+    + Team members: Jieyi Wang, Yuying Zhang, Xunze Zhu, Paul Thiriot
+
     + This project creates a fun game called "Run! Starfish!" which allows the user to control the game by sound volume.
     + [[report]](/files/am045-2018/Starfish_report.pdf) [[slide]](/files/am045-2018/Starfish_slide.pdf)
 
