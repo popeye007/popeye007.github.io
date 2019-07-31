@@ -45,3 +45,11 @@ This is a list of student projects for my course "CS159: Python Programming (201
   - "Artist’s Meme (艺术家的表情包)"
     + by the team "我们是表情包的生产者": 刘嘉宜, 千芊, 李中华
     + [[report]](/files/cs159-2019-zh/我们是表情包的生产者_report.pdf) [[slide]](/files/cs159-2019-zh/我们是表情包的生产者_slide.pdf) [[demo]](/files/cs159-2019-zh/我们是表情包的生产者_demo.mp4)
+
+  - "Artist’s Meme (艺术家的表情包)"
+    + by the team "我们是表情包的生产者": 刘嘉宜, 千芊, 李中华
+    + [[report]](/files/cs159-2019-zh/我们是表情包的生产者_report.pdf) [[slide]](/files/cs159-2019-zh/我们是表情包的生产者_slide.pdf) [[demo]](/files/cs159-2019-zh/我们是表情包的生产者_demo.mp4)
+
+  - "Artist’s Meme (艺术家的表情包)"
+    + by the team "我们是表情包的生产者": 刘嘉宜, 千芊, 李中华
+    + [[report]](/files/cs159-2019-zh/我们是表情包的生产者_report.pdf) [[slide]](/files/cs159-2019-zh/我们是表情包的生产者_slide.pdf) [[demo]](/files/cs159-2019-zh/我们是表情包的生产者_demo.mp4)
