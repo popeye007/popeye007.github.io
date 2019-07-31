@@ -13,7 +13,7 @@ This is a list of student projects for my course "CS159: Python Programming (201
 
   - "The Battle of Balls" by the team "The Sky Is The Limit" (English-Speaking Class)
     + Team members: Jieyi Wang, Yuying Zhang, Xunze Zhu, Paul Thiriot
-    + [[report]](/files/TheSkyIsTheLimit_report.pdf) [[slide]](/files/cs159-2019-en/TheSkyIsTheLimit_slide.pdf) [[demo_lose]](/files/cs159-2019-en/TheSkyIsTheLimit_lose_demo.mp4) [[demo_win]](/files/cs159-2019-en/TheSkyIsTheLimit_win_demo.mp4)
+    + [[report]](/files/TheSkyIsTheLimit_report.pdf) [[slide]](/files/cs159-2019-en/TheSkyIsTheLimit_slide.pdf) [[demo\_lose]](/files/cs159-2019-en/TheSkyIsTheLimit_lose_demo.mp4) [[demo\_win]](/files/cs159-2019-en/TheSkyIsTheLimit_win_demo.mp4)
 
 
 ### All Projects:
