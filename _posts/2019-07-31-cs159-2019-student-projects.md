@@ -53,6 +53,7 @@ This is a list of student projects for my course "CS159: Python Programming (201
   - "利用python实现人脸识别"
     + by the team "LoveYouThree": 张芷馨, 韩涵, 刘奕涵
     + [[report]](/files/cs159-2019-zh/LoveYouThree_report.pdf) [[slide]](/files/cs159-2019-zh/LoveYouThree_slide.pdf) [[demo]](/files/cs159-2019-zh/LoveYouThree_demo.mp4)
+<<<<<<< HEAD
 
   - "游戏: 我爱学习，学习使我快乐"
     + by the team "300.75": 邵心怡, 曾心荷, 杨煊
@@ -85,3 +86,5 @@ This is a list of student projects for my course "CS159: Python Programming (201
   - "游戏: BY连连看"
     + by the team "BY GO GO GO": 汤薇薇, 王佑真, 谷怀若
     + [[report]](/files/cs159-2019-zh/BY连连看_report.pdf) [[slide]](/files/cs159-2019-zh/BY连连看_slide.pdf) [[demo]](/files/cs159-2019-zh/BY连连看_demo.mp4)
+=======
+>>>>>>> 6e1a5e459c8ed98d12b5eb41a8e5cb73991bfdad
