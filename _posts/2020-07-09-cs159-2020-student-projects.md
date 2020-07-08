@@ -3,7 +3,7 @@ layout: post
 title: CS159 2020 Student Projects
 ---
 
-This is a list of selected student projects (20 out of 46) for my course "CS159: Python Programming (2020 Spring)".
+This is a list of selected student projects (22 out of 46) for my course "CS159: Python Programming (2020 Spring)".
 
 ### Projects in Class 1:
 
