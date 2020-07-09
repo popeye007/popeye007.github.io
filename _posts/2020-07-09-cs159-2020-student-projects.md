@@ -34,7 +34,7 @@ This is a list of selected student projects (22 out of 46) for my course "CS159:
   - 基于手势和眨眼识别的《Clumsy Bird》 by 404NOTFOUND: 高婕, 张珂欣, 刘欣语
     + [[report]](/files/cs159-2020s/report_ClumsyBird.pdf) [[demo]](/files/cs159-2020s/demo_ClumsyBird.mp4)
 
-  - 你并不孤单 -- 基于表情和语音识别的聊天机器人 by 老实芭蕉组: 马筱琛, 马筱琛, 王菀婷
+  - 你并不孤单 -- 基于表情和语音识别的聊天机器人 by 老实芭蕉组: 马筱琛, 李嘉翌, 王菀婷
     + [[report]](/files/cs159-2020s/report_urnotalone.pdf) [[demo]](/files/cs159-2020s/demo_urnotalone.mp4)
 
   - 情绪识别歌单 by 太菜了不配有名字: 董复庆, 杜洋, 王颜涛
